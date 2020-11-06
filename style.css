@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Roboto:wght@300&family=Slabo+27px&display=swap');
+
+body {
+        padding: 0;
+        margin: 0;
+        font-family: 'Roboto', sans-serif;
+    }
+    #menuHaut {
+        background-color: #E60012;
+        position:relative;
+        color: white;
+        padding-top: 21px;
+        border: 1px solid #BF0010;
+        padding-bottom: 20px;
+    }
+    #menuGauche {
+        background-color: #E60012;
+        position:relative;
+        padding: 10px;
+        width: 66px;
+        height: 650px;
+        float:left;
+        color: white;
+        border: 1px solid #BF0010;
+    }
+    i {
+        font-size: 21px;
+    }
+    #inline {
+        display: inline;
+        position: relative;
+    }
+    #logoNintendo {
+        position: absolute;
+        height: 41px;
+        left: 13px;
+        top: 18px;
+    }
+    #recherche {
+        position: absolute;
+        left: 1293px;
+        height: 38px;
+        top: 20px;
+    }
+    #connexion {
+        position: relative;
+        font-size: 9px;
+        text-align: right;
+        right: 13px;
+    }
+    td {
+        border: 1px solid #BF0010;
+        position: absolute;
+        left: 0px;
+        height: 70px;
+        width: 46px;
+        font-size: 12px;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        top: 72px;
+        text-align: center;
+    }
+    #jeux {
+        position: absolute;
+        top: 173px;
+        padding-top: 30px;
+        height: 42px;
+    }
+    #game {
+        height: 30px;
+    }
+    #eshop {
+        position: absolute;
+        top: 266px;
+        height: 59px;
+
+    }
+    #assist {
+        position: absolute;
+        top: 356px;
+        height: 54px;
+    }
+    #store {
+        position: absolute;
+        top: 442px;
+        padding-left: 5px;
+        padding-right: 5px;
+        width: 76px;
+        height: 55px;
+    }
+    #perso {
+        position: absolute;
+        top: 527px;
+        height: 23px;
+        padding: 20px;
+    }
+    #pers {
+        height: 27px;
+    }
+    #points {
+        position: absolute;
+        top: 590px;
+        font-size: 40px;
+        height: 30px;
+
+    }
+    img {
+        height: 39px;
+    }
