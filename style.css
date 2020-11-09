@@ -5,7 +5,7 @@
         margin: 0;
         font-family: 'Roboto', sans-serif;
     }
-    #menuHaut {
+    .menuHaut {
         background-color: #E60012;
         position:relative;
         color: white;
@@ -13,7 +13,7 @@
         border: 1px solid #BF0010;
         padding-bottom: 20px;
     }
-    #menuGauche {
+    .menuGauche {
         background-color: #E60012;
         position:relative;
         padding: 10px;
@@ -26,23 +26,23 @@
     i {
         font-size: 21px;
     }
-    #inline {
+    .inline {
         display: inline;
         position: relative;
     }
-    #logoNintendo {
+    .logoNintendo {
         position: absolute;
         height: 41px;
         left: 13px;
         top: 18px;
     }
-    #recherche {
+    .recherche {
         position: absolute;
         left: 1293px;
         height: 38px;
         top: 20px;
     }
-    #connexion {
+    .connexion {
         position: relative;
         font-size: 9px;
         text-align: right;
@@ -63,27 +63,27 @@
         top: 72px;
         text-align: center;
     }
-    #jeux {
+    .jeux {
         position: absolute;
         top: 173px;
         padding-top: 30px;
         height: 42px;
     }
-    #game {
+    .game {
         height: 30px;
     }
-    #eshop {
+    .eshop {
         position: absolute;
         top: 266px;
         height: 59px;
 
     }
-    #assist {
+    .assist {
         position: absolute;
         top: 356px;
         height: 54px;
     }
-    #store {
+    .store {
         position: absolute;
         top: 442px;
         padding-left: 5px;
@@ -91,16 +91,16 @@
         width: 76px;
         height: 55px;
     }
-    #perso {
+    .perso {
         position: absolute;
         top: 527px;
         height: 23px;
         padding: 20px;
     }
-    #pers {
+    .pers {
         height: 27px;
     }
-    #points {
+    .points {
         position: absolute;
         top: 590px;
         font-size: 40px;
